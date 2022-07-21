@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /server/server.py
+Disallow: /server/
+Disallow: /messages/
+Disallow: /community/
+Disallow: /manage/
+Disallow: /manage/cabbagelang-manage-setup.exe
+Disallow: /blogs/
+Disallow: /cn/
+Disallow: /flags/
+Disallow: /jp/
+Disallow: /font-awesome-4.7.0/
+Disallow: /font-awesome-4.7.0/*
